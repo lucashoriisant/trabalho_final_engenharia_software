@@ -1,5 +1,12 @@
-# Integrantes/RA:
-Tony Adryano Gomes / 1840482013045
-Lucas Horii dos Santos / 1840482013034
+## Integrantes da dupla:
+**NOME:** Tony Adryano Gomes
+**RA:** 1840482013045
+
+---
+
+**NOME:** Lucas Horii dos Santos
+**RA:** 1840482013034
+
+---
 
 ## Descrição do projeto:
