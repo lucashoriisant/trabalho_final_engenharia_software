@@ -3,12 +3,11 @@ public class CicloSono {
     
     private String confirmacao;
     private boolean execucao;
-    private boolean status;
+    private boolean status;    
 
     CicloSono() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-    
     
     public void estadoAtual(){
         System.out.println("Deseja realmente iniciar o ciclo? " + this.getConfirmacao());
